@@ -195,3 +195,11 @@
         url('../fonts/open-sans/open-sans-v15-latin-800italic.ttf') format('truetype'), /* Safari, Android, iOS */
         url('../fonts/open-sans/open-sans-v15-latin-800italic.svg#OpenSans') format('svg'); /* Legacy iOS */
 }
+
+@font-face {
+    font-family: 'Vazirmatn';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/vazirmatn/Vazirmatn-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('../fonts/vazirmatn/Vazirmatn-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}
