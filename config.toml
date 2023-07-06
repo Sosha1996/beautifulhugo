@@ -78,12 +78,12 @@ pygmentsCodefencesGuessSyntax = true
   # strava = "userid"
 
 [[menu.main]]
-    name = "Blog"
+    name = "بلاگ"
     url = ""
     weight = 1
 
 [[menu.main]]
-    name = "About"
+    name = "درباره‌ی من"
     url = "page/about/"
     weight = 3
 
@@ -111,6 +111,6 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
-    name = "Tags"
+    name = "برچسب‌ها"
     url = "tags"
     weight = 3
